@@ -2,3 +2,4 @@ langchain[groq]
 langgraph
 langsmith
 langchain_anthropic
+transformers
